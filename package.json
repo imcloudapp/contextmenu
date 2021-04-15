@@ -1,0 +1,8 @@
+{
+  "name": "@imcloudapp/contextmenu",
+  "version": "0.0.1",
+  "author": "Canson",
+  "scripts": {
+    "pub":"npm publish --access public"
+  }
+}
